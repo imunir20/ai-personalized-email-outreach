@@ -1,0 +1,7 @@
+langchain
+langchain-community
+streamlit
+crewai
+python-dotenv
+unstructured
+email-to
